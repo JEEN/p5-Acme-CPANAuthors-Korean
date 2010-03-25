@@ -18,11 +18,11 @@ use Acme::CPANAuthors::Register (
 
 __END__
 
-=encoding utf-8
+=encoding utf8
 
 =head1 NAME
 
-Acme::CPANAuthors::Korean - We are Korean CPAN Authors!
+Acme::CPANAuthors::Korean - We are Korean CPAN Authors! (우리는 CPAN Author 다!)
 
 =head1 SYNOPSIS
 
