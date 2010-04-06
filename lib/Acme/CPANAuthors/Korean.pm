@@ -11,7 +11,8 @@ use Acme::CPANAuthors::Register (
 	YOU   => "YOU Hyun Jo",
         KHS   => "HyeonSeung Kim",
         YONGBIN => "Yongbin Yu",
-        JPJEON  => "Jongpil Jeon"
+        JPJEON  => "Jongpil Jeon",
+        AMORRETE => "Ho-jung Yoon"
 );
 
 1;
