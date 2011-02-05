@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::CPANAuthors::Korean
 
+0.061   Sat Feb 5 14:10:00 2011 KST
+        - Fixed something
+        
 0.06    Sat Feb 5 14:00:00 2011 KST
         - Added DALINAUM
 

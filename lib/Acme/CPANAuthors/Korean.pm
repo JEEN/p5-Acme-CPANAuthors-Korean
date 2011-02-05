@@ -2,16 +2,16 @@ package Acme::CPANAuthors::Korean;
 
 use strict;
 use warnings;
-our $VERSION = '0.06';
+our $VERSION = '0.061';
 
 use Acme::CPANAuthors::Register (
-	JEEN  => "Jong-jin Lee",
-	AERO  => "C.H. Kang",
-	KEEDI => "Keedi Kim",
-	YOU   => "YOU Hyun Jo",
-  KHS   => "HyeonSeung Kim",
-  YONGBIN => "Yongbin Yu",
-  JPJEON  => "Jongpil Jeon",
+	JEEN     => "Jong-jin Lee",
+	AERO     => "C.H. Kang",
+	KEEDI    => "Keedi Kim",
+	YOU      => "YOU Hyun Jo",
+  KHS      => "HyeonSeung Kim",
+  YONGBIN  => "Yongbin Yu",
+  JPJEON   => "Jongpil Jeon",
   AMORRETE => "Ho-jung Yoon",
   DALINAUM => "김용욱",
 );
@@ -52,7 +52,7 @@ Git repository: http://github.com/jeen/Acme-CPANAuthors-Korean/
 
 =head1 AUTHOR
 
-JEEN E<lt>jeen@perl.krE<gt>
+Jeen Lee E<lt>jeen@perl.krE<gt>
 
 =head1 SEE ALSO
 
