@@ -2,17 +2,18 @@ package Acme::CPANAuthors::Korean;
 
 use strict;
 use warnings;
-our $VERSION = '0.04';
+our $VERSION = '0.06';
 
 use Acme::CPANAuthors::Register (
 	JEEN  => "Jong-jin Lee",
 	AERO  => "C.H. Kang",
 	KEEDI => "Keedi Kim",
 	YOU   => "YOU Hyun Jo",
-        KHS   => "HyeonSeung Kim",
-        YONGBIN => "Yongbin Yu",
-        JPJEON  => "Jongpil Jeon",
-        AMORRETE => "Ho-jung Yoon"
+  KHS   => "HyeonSeung Kim",
+  YONGBIN => "Yongbin Yu",
+  JPJEON  => "Jongpil Jeon",
+  AMORRETE => "Ho-jung Yoon",
+  DALINAUM => "김용욱",
 );
 
 1;
