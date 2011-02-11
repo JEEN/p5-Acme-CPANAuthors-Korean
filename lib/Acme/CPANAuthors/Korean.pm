@@ -2,7 +2,7 @@ package Acme::CPANAuthors::Korean;
 
 use strict;
 use warnings;
-our $VERSION = '0.061';
+our $VERSION = '0.07';
 
 use Acme::CPANAuthors::Register (
 	JEEN     => "Jong-jin Lee",
@@ -14,6 +14,7 @@ use Acme::CPANAuthors::Register (
   JPJEON   => "Jongpil Jeon",
   AMORRETE => "Ho-jung Yoon",
   DALINAUM => "김용욱",
+  AANOAA   => "Hyungsuk Hong", 
 );
 
 1;
