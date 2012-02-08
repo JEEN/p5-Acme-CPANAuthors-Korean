@@ -3,12 +3,10 @@ name 'Acme-CPANAuthors-Korean';
 all_from 'lib/Acme/CPANAuthors/Korean.pm';
 perl_version '5.006';
 
-repository 'http://github.com/jeen/acme-cpanauthors-korean/tree/master';
-
-requires 'Acme::CPANAuthors';
+resources repository => 'http://github.com/JEEN/p5-Acme-CPANAuthors-Korean.git';
+requires 'Acme::CPANAuthors' => 0;
 
 tests 't/*.t';
-author_tests 'xt';
 
 build_requires 'Test::More';
 use_test_base;

@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::CPANAuthors::Korean
 
+0.08    Wed Feb 9 00:30:00 2011 KST
+        - Added repository
+
 0.071   Thu Dec 8 11:30:00 2011 KST
         - Fixed DALINAUM and AMORETTE's ID @keedi++
 
