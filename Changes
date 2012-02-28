@@ -1,31 +1,34 @@
 Revision history for Perl extension Acme::CPANAuthors::Korean
 
-0.08    Wed Feb 9 00:30:00 2011 KST
-        - Added repository
+0.09    Tue Feb 28 11:30:00 2011 KST
+        - Add GYPARK
 
-0.071   Thu Dec 8 11:30:00 2011 KST
-        - Fixed DALINAUM and AMORETTE's ID @keedi++
+0.08    Wed Feb  9 00:30:00 2011 KST
+        - Add a repository meta
+
+0.071   Thu Dec  8 11:30:00 2011 KST
+        - Fix DALINAUM and AMORETTE's ID @keedi++
 
 0.07    Fri Feb 11 21:30:00 2011 KST
-        - Added AANOAA
+        - Add AANOAA
 
-0.061   Sat Feb 5 14:10:00 2011 KST
-        - Fixed something
+0.061   Sat Feb  5 14:10:00 2011 KST
+        - Fix something
         
-0.06    Sat Feb 5 14:00:00 2011 KST
-        - Added DALINAUM
+0.06    Sat Feb  5 14:00:00 2011 KST
+        - Add DALINAUM
 
-0.05    Tue Apr 6  17:30:00 2010 KST
-        - Added AMORRETE
+0.05    Tue Apr  6  17:30:00 2010 KST
+        - Add AMORRETE
 
 0.04    Wed Mar 10 12:35:00 2010 KST
-        - Added JPJEON
+        - Add JPJEON
 
 0.03    Wed Mar 10 12:30:00 2010 KST
-        - Added YONGBIN
+        - Add YONGBIN
 
 0.02    Wed Oct  7 15:13:00 2009
-        - Added KHS
+        - Add KHS
 
 0.01    Wed Oct  7 14:32:49 2009
         - original version

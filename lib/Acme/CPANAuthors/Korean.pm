@@ -2,13 +2,14 @@ package Acme::CPANAuthors::Korean;
 
 use strict;
 use warnings;
-our $VERSION = '0.08';
+our $VERSION = '0.09';
 
 use Acme::CPANAuthors::Register (
     AANOAA   => "Hyungsuk Hong",
     AERO     => "C.H. Kang",
     AMORETTE => "Hojung Youn",
     DALINAUM => "김용욱 (Leonaro YongUk KIM)",
+    GYPARK   => "Geunyoung Park",
     JEEN     => "Jong-jin Lee",
     JPJEON   => "Jongpil Jeon",
     KEEDI    => "Keedi Kim",
