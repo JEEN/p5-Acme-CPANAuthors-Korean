@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::CPANAuthors::Korean
 
+0.10    Thu Aug  2 17:54:58 2012 KST
+        - Add SKYEND
+
 0.09    Tue Feb 28 11:30:00 2011 KST
         - Add GYPARK
 
