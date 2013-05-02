@@ -1,14 +1,18 @@
-use inc::Module::Install;
-name 'Acme-CPANAuthors-Korean';
-all_from 'lib/Acme/CPANAuthors/Korean.pm';
-perl_version '5.006';
+use strict;
+use warnings;
+use ExtUtils::MakeMaker;
 
-resources repository => 'http://github.com/JEEN/p5-Acme-CPANAuthors-Korean.git';
-requires 'Acme::CPANAuthors' => 0;
-
-tests 't/*.t';
-
-build_requires 'Test::More';
-use_test_base;
-auto_include;
-WriteAll;
+WriteMakefile(
+    NAME          => 'Acme::CPANAuthors::Korean',
+    AUTHOR        => 'Jeen Lee <jeen@cpan.org>',
+    VERSION_FROM  => 'lib/Acme/CPANAuthors/Korean.pm',
+    ABSTRACT_FROM => 'lib/Acme/CPANAuthors/Korean.pm',
+    PREREQ_PM => {
+        'Acme::CPANAuthors'         => '0.02',
+        'Test::More'                => '0.47',
+    },
+    ($ExtUtils::MakeMaker::VERSION >= 6.31
+        ? ( LICENSE => 'perl' )
+        : ()
+    ),
+);

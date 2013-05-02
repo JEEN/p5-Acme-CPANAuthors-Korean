@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::CPANAuthors::Korean
 
+0.010   Thu May  2 22:00:00 2013 KST
+        - Fix [rt.cpan.org #84255] Packaging bug: inc directory missing
+
 0.09    Tue Feb 28 11:30:00 2011 KST
         - Add GYPARK
 
