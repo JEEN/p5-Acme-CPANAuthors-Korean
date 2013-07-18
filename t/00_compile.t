@@ -1,4 +1,9 @@
 use strict;
-use Test::More tests => 1;
+use Test::More;
 
-BEGIN { use_ok 'Acme::CPANAuthors::Korean' }
+use_ok $_ for qw(
+    Acme::CPANAuthors::Korean
+);
+
+done_testing;
+
