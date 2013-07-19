@@ -2,6 +2,9 @@ Revision history for Perl extension Acme-CPANAuthors-Korean
 
 {{$NEXT}}
 
+0.12 2013-07-19T09:14:28Z
+         - Add SKYEND
+
 0.11 2013-07-19T01:56:02Z
          - Add NEWBCODE
 

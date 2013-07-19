@@ -2,7 +2,7 @@ package Acme::CPANAuthors::Korean;
 
 use strict;
 use warnings;
-our $VERSION = '0.11';
+our $VERSION = '0.12';
 
 use Acme::CPANAuthors::Register (
     AANOAA   => "Hyungsuk Hong",
@@ -15,6 +15,7 @@ use Acme::CPANAuthors::Register (
     KEEDI    => "Keedi Kim",
     KHS      => "HyeonSeung Kim",
     NEWBCODE => "Yun Chang Kang",
+    SKYEND   => "J.W. Han",
     YONGBIN  => "Yongbin Yu",
     YOU      => "YOU Hyun Jo",
 );
