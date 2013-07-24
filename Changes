@@ -2,11 +2,14 @@ Revision history for Perl extension Acme-CPANAuthors-Korean
 
 {{$NEXT}}
 
+0.13 2013-07-24T04:03:29Z
+        - utf8 characters in code require the 'utf8' pragma [github:karenetheridge]
+
 0.12 2013-07-19T09:14:28Z
-         - Add SKYEND
+        - Add SKYEND
 
 0.11 2013-07-19T01:56:02Z
-         - Add NEWBCODE
+        - Add NEWBCODE
 
 0.10   Thu May  2 22:00:00 2013 KST
         - Fix [rt.cpan.org #84255] Packaging bug: inc directory missing

@@ -64,9 +64,10 @@
          "web" : "https://github.com/JEEN/p5-Acme-CPANAuthors-Korean"
       }
    },
-   "version" : "0.12",
+   "version" : "0.13",
    "x_contributors" : [
       "Keedi Kim <keedi.k@gmail.com>",
-      "Jeen Lee <aiatejin@gmail.com>"
+      "Jeen Lee <aiatejin@gmail.com>",
+      "Karen Etheridge <ether@cpan.org>"
    ]
 }
