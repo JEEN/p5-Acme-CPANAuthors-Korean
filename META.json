@@ -4,7 +4,7 @@
       "Jeen Lee <jeen@perl.kr>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.5.6, CPAN::Meta::Converter version 2.131560",
+   "generated_by" : "Minilla/v0.11.0, CPAN::Meta::Converter version 2.133380",
    "license" : [
       "perl_5"
    ],
@@ -21,7 +21,8 @@
          "share",
          "eg",
          "examples",
-         "author"
+         "author",
+         "builder"
       ]
    },
    "prereqs" : {
@@ -64,10 +65,10 @@
          "web" : "https://github.com/JEEN/p5-Acme-CPANAuthors-Korean"
       }
    },
-   "version" : "0.13",
+   "version" : "0.14",
    "x_contributors" : [
       "Keedi Kim <keedi.k@gmail.com>",
-      "Jeen Lee <aiatejin@gmail.com>",
-      "Karen Etheridge <ether@cpan.org>"
+      "Karen Etheridge <ether@cpan.org>",
+      "Jeen Lee <aiatejin@gmail.com>"
    ]
 }

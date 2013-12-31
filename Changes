@@ -2,6 +2,9 @@ Revision history for Perl extension Acme-CPANAuthors-Korean
 
 {{$NEXT}}
 
+0.14 2013-12-31T03:04:32Z
+        - Add ISJOUNG
+
 0.13 2013-07-24T04:03:29Z
         - utf8 characters in code require the 'utf8' pragma [github:karenetheridge]
 

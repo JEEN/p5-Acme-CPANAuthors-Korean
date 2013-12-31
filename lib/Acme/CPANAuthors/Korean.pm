@@ -2,7 +2,7 @@ package Acme::CPANAuthors::Korean;
 
 use strict;
 use warnings;
-our $VERSION = '0.13';
+our $VERSION = '0.14';
 use utf8;
 
 use Acme::CPANAuthors::Register (
@@ -11,6 +11,7 @@ use Acme::CPANAuthors::Register (
     AMORETTE => "Hojung Youn",
     DALINAUM => "김용욱 (Leonaro YongUk KIM)",
     GYPARK   => "Geunyoung Park",
+    ISJOUNG  => "In Suk Joung",
     JEEN     => "Jong-jin Lee",
     JPJEON   => "Jongpil Jeon",
     KEEDI    => "Keedi Kim",

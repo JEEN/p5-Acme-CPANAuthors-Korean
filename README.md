@@ -16,11 +16,11 @@ Acme::CPANAuthors::Korean - We are Korean CPAN Authors! (우리는 CPAN Author �
 
 # DESCRIPTION
 
-See documentation for [Acme::CPANAuthors](http://search.cpan.org/perldoc?Acme::CPANAuthors) for more details.
+See documentation for [Acme::CPANAuthors](https://metacpan.org/pod/Acme::CPANAuthors) for more details.
 
 # DEPENDENCIES
 
-[Acme::CPANAuthors](http://search.cpan.org/perldoc?Acme::CPANAuthors)
+[Acme::CPANAuthors](https://metacpan.org/pod/Acme::CPANAuthors)
 
 # DEVELOPMENT
 
