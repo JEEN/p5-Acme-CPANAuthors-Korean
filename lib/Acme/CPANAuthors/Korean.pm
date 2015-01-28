@@ -6,21 +6,22 @@ our $VERSION = '0.15';
 use utf8;
 
 use Acme::CPANAuthors::Register (
-    AANOAA   => "Hyungsuk Hong",
-    AERO     => "C.H. Kang",
-    AMORETTE => "Hojung Youn",
-    DALINAUM => "김용욱 (Leonaro YongUk KIM)",
-    GYPARK   => "Geunyoung Park",
-    ISJOUNG  => "In Suk Joung",
-    JEEN     => "Jong-jin Lee",
-    JPJEON   => "Jongpil Jeon",
-    KEEDI    => "Keedi Kim",
-    KHS      => "HyeonSeung Kim",
-    NEWBCODE => "Yun Chang Kang",
-    SKYEND   => "J.W. Han",
-    YONGBIN  => "Yongbin Yu",
-    YOU      => "YOU Hyun Jo",
-    RAKJIN   => "Rakjin Hwang",
+    AANOAA    => "Hyungsuk Hong",
+    AERO      => "C.H. Kang",
+    AMORETTE  => "Hojung Youn",
+    DALINAUM  => "김용욱 (Leonaro YongUk KIM)",
+    GYPARK    => "Geunyoung Park",
+    ISJOUNG   => "In Suk Joung",
+    JEEN      => "Jong-jin Lee",
+    JPJEON    => "Jongpil Jeon",
+    KEEDI     => "Keedi Kim",
+    KHS       => "HyeonSeung Kim",
+    NEWBCODE  => "Yun Chang Kang",
+    POTATOGIM => "Ji-Hyeon Gim",
+    RAKJIN    => "Rakjin Hwang",
+    SKYEND    => "J.W. Han",
+    YONGBIN   => "Yongbin Yu",
+    YOU       => "YOU Hyun Jo",
 );
 
 1;
